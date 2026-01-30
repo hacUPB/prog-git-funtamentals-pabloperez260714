@@ -1,0 +1,23 @@
+Uso de comando mas usado durante la secion
+
+1. git clone: es para poder clonar un repositorio y trabajar en el local 
+
+2. cd: para entrar a una carpeta o archivo
+
+3. git add: es para agregar los archivos y poder hacerles el commit 
+
+4. git commit -m: es para hacer ciertos puntos de control sobre los cambios a los archivos
+![commit](../imagenes/imagencommit.png)
+5. git status: es para poder visualizar que archivos no estan agregados para hacerles el commit 
+![status](../imagenes/gitstatus.png)
+6. ls: es el listado de documentos o archviso dentro de una carpeta
+
+
+7. vim remote -v: es para ver en que repositorio del github estoy
+
+8. mkdir: para crear una carpeta
+
+
+9. touch: para crear un documento
+
+10. rm: remover archivos
