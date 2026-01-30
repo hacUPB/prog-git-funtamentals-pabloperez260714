@@ -3,7 +3,7 @@
 
 
 # paso a paso para clonar: en github encontraremos el repositorio que queremos clonar, en donde duce "codigo" aparecerta el link del repositorio que queremos utilizar en el local"
-despues en git bash usaremos el comando "git clone" y el link del repositorio que queremos utilizsar en el remoto, le damos enter, y ya estaremos trabajando el repositorio que queriamos clonar.
+despues en git bash usaremos el comando "git clone" y el link del repositorio que queremos utilizsar en el remoto, le damos enter, y ya estaremos trabajando el repositorio que queriamos clonar ya dentro del git bash.
 
 # tabala de contenido 
 
