@@ -1,0 +1,1 @@
+con el comando "mkdir" podremos crear la carpeta en la cuales queremos meter los documentos deseados, despues sincronizamos el comando local con el remoto, y por medio del git push podemos montar del local al remoto, yn con elm comando "git pull" seremos capaces de pasar del remoto al local

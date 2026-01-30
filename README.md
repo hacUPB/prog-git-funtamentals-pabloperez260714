@@ -1,3 +1,20 @@
+# explicacion:
+ en este podremos encontrar una breve explicacion sobnre como trabajar en el repositorio remoto y local, imagenes como ejemplosm de algunos de los comando de la consalo mas utilizados en git bash y los principales comando que podremos utilizar en git bash 
+
+
+# paso a paso para clonar: en github encontraremos el repositorio que queremos clonar, en donde duce "codigo" aparecerta el link del repositorio que queremos utilizar en el local"
+despues en git bash usaremos el comando "git clone" y el link del repositorio que queremos utilizsar en el remoto, le damos enter, y ya estaremos trabajando el repositorio que queriamos clonar ya dentro del git bash.
+
+# tabala de contenido 
+
+| link a markdown | ¿Qué aprendí? |
+|------|----------------|
+| ficha.md | agrega texto aquí |
+| Links | [link a markdown](../markdown-practica/ficha.md) |
+| Imágen de ficha.md | ![ imagen de ficha.md](../markdown-practica/Captura%20de%20pantalla%202026-01-30%20155216.png) |
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  
