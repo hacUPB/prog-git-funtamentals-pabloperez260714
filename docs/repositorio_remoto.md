@@ -1,0 +1,1 @@
+en github esta creado o creamos el repositorio, despues en la parte donde dicde codigo, lo copiamos, y en git bash con el comando "git clone" seremos capaces de clonar el repositorio en el cual queremos trabajar en el local, con el comando "push" seremos capaces de montar lo trabajado en el local al remoto
