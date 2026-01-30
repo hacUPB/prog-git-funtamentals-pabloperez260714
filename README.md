@@ -10,7 +10,7 @@ despues en git bash usaremos el comando "git clone" y el link del repositorio qu
 | link a markdown | ¿Qué aprendí? |
 |------|----------------|
 | ficha.md | agrega texto aquí |
-| Links | [ link a markdown](../markdown-practica/ficha.md) |
+| Links | [link a markdown](../markdown-practica/ficha.md) |
 | Imágen de ficha.md | ![ imagen de ficha.md](../markdown-practica/Captura%20de%20pantalla%202026-01-30%20155216.png) |
 
 
